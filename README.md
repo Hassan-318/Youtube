@@ -17,7 +17,7 @@ The YouTube Webpage project demonstrates the use of HTML and CSS to create a sim
 
 **CSS Styling:** CSS is extensively used for styling elements, including fonts, colors, margins, and padding.
 
-Feel free to explore the YouTube Homepage Webpage project and its features. Whether you're learning about HTML and CSS or looking for inspiration, we hope you find this project informative and enjoyable. If you have any questions or suggestions, please don't hesitate to reach out.
+Feel free to explore the YouTube Webpage project and its features. Whether you're learning about HTML and CSS or looking for inspiration, we hope you find this project informative and enjoyable. If you have any questions or suggestions, please don't hesitate to reach out.
 
 
 <img width="1280" alt="Youtube" src="https://github.com/Hassan-318/Youtube/assets/142814682/828894a5-b3cc-4a16-8a1f-d29206330861">
